@@ -1,0 +1,17 @@
+F:\AIproject\AIproject\obj\Debug\AIproject.csprojResolveAssemblyReference.cache
+F:\AIproject\AIproject\obj\Debug\AIproject.Form1.resources
+F:\AIproject\AIproject\obj\Debug\AIproject.Properties.Resources.resources
+F:\AIproject\AIproject\obj\Debug\AIproject.csproj.GenerateResource.Cache
+F:\AIproject\AIproject\bin\Debug\AIproject.exe.config
+F:\AIproject\AIproject\bin\Debug\AIproject.exe
+F:\AIproject\AIproject\bin\Debug\AIproject.pdb
+F:\AIproject\AIproject\obj\Debug\AIproject.exe
+F:\AIproject\AIproject\obj\Debug\AIproject.pdb
+F:\AIproject\AIproject\bin\Debug\CircularProgressBar.dll
+F:\AIproject\AIproject\bin\Debug\WinFormAnimation.dll
+F:\AIproject\AIproject\bin\Debug\CircularProgressBar.xml
+F:\AIproject\AIproject\bin\Debug\WinFormAnimation.xml
+F:\AIproject\AIproject\bin\Debug\LoadingIndicators.WPF.dll
+F:\AIproject\AIproject\bin\Debug\LoadingIndicators.WPF.pdb
+F:\AIproject\AIproject\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\AIproject\AIproject\obj\Debug\AIproject.custom.resources
